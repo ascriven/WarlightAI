@@ -1,0 +1,4 @@
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\bin\Release\WarlightAI.exe
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\bin\Release\WarlightAI.pdb
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\obj\Release\WarlightAI.exe
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\obj\Release\WarlightAI.pdb

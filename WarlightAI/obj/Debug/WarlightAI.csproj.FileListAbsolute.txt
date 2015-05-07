@@ -1,0 +1,7 @@
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\bin\Debug\WarlightAI.exe
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\bin\Debug\WarlightAI.pdb
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\obj\Debug\WarlightAI.exe
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\obj\Debug\WarlightAI.pdb
+C:\Users\Naveed\Documents\Programming\AI\WarlightAIBin\WarlightAI.exe
+C:\Users\Naveed\Documents\Programming\AI\WarlightAIBin\WarlightAI.pdb
+C:\Users\Naveed\Documents\Programming\AI\WarlightAI\WarlightAI\obj\Debug\WarlightAI.csprojResolveAssemblyReference.cache
